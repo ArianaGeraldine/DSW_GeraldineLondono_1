@@ -29,6 +29,14 @@
     
 }
 
+.submenu {
+  padding: 10px;
+  background-color: #F0B429;
+  font-size: x-large;
+  font-weight: bold;
+  color: black;
+}
+
 body {
   font-weight: inherit;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
